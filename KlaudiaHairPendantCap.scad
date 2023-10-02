@@ -1,0 +1,3 @@
+include <KlaudiaHairPendantHalf.scad>;
+
+KlaudiaHairPendantCap();
