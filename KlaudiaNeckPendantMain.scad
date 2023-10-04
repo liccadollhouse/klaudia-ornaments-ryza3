@@ -1,0 +1,3 @@
+include <KlaudiaNeckPendantMaster.scad>;
+
+KlaudiaNeckPendant();
